@@ -1,1 +1,1 @@
-worker: python duo_bot_download_upload_fix.py
+worker: chatbot.py
